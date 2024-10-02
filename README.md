@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alihz2011
+- 👋 Hi, I’m Ali
 - 👀 I’m interested in mobile gaming development
 - 🌱 I’m currently learning python
 - 📫 How to reach me alihzmoghadam11@gmail.com
